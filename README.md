@@ -1,6 +1,6 @@
 
 ## Hello 🖥
-I am a Frontend Engineer from Seattle, WA with an interest in Three.js and 3D. Personal projects of mine include immersive web applications using Three.js and react-three-fiber, and augmented reality experiences. 
+I am a developer from Seattle, WA with an interest in Three.js and 3D. Personal projects of mine include immersive web applications using Three.js and react-three-fiber, and augmented reality experiences. 
 
   ## Skills:
 
