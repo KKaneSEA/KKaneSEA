@@ -1,6 +1,6 @@
 
 ## Hello 🖥
-I'm a Seattle-based developer with a passion for 3D graphics, WebGL, and interactive experiences. I specialize in building interactive experiences with Three.js, React Three Fiber, TypeScript,and augmented reality (AR) technologies. I’m currently expanding my skill set to include full-stack development.
+I'm a Seattle-based developer with a passion for 3D graphics, WebGL, and interactive experiences. I specialize in building interactive experiences with Three.js, React Three Fiber, TypeScript, and augmented reality (AR) technologies. I’m currently expanding my skill set to include full-stack development.
 
 I’m excited to apply my technical expertise, problem-solving skills, and creativity to develop innovative web experiences. I thrive in collaborative environments and am eager to contribute to a team building cutting-edge interactive applications.
 
