@@ -14,7 +14,7 @@ I’m a Seattle-based developer creating interactive 3D web experiences with Web
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,threejs,blender,vercel,webpack,git,html,sass,css"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,threejs,ai,blender,vercel, supabase, webpack,git,html,sass,css,ps"/>
   </a>
 
 
