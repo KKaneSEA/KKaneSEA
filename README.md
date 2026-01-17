@@ -6,10 +6,10 @@ I’m a Seattle-based developer creating interactive 3D web experiences with Web
 
 
 
-<a href="https://github.com/KKaneSEA">
+<!-- <a href="https://github.com/KKaneSEA">
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKaneSEA&layout=compact&title_color=ffc252&text_color=F2F2F2&bg_color=2e0706&border_color=d5fcff" />
-</a>
+</a> -->
 
 
   ## Skills:
