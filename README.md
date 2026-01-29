@@ -1,8 +1,7 @@
 
 ## Hello 🖥
-I’m a Seattle-based developer creating interactive 3D web experiences with WebGL and modern web technologies. I craft immersive applications with TypeScript, JavaScript, React, Next.js, Three.js, React Three Fiber, Vercel, and AR technologies, integrating OpenAI GPT and DALL·E to add AI-powered features to my projects.
 
-
+I'm a web developer based in Seattle, building interactive 3D experiences and AI-powered applications. My creative work spans real-time 3D graphics with Three.js and WebGL, generative AI features using OpenAI APIs, and modern web applications built with TypeScript, React, and Next.js.
 
 
 
