@@ -1,7 +1,7 @@
 
 ## Hello 🖥
 
-I'm a web developer based in Seattle, building interactive 3D experiences and AI-powered applications. My creative work spans real-time 3D graphics with Three.js and WebGL, generative AI features using OpenAI APIs, and modern web applications built with TypeScript, React, and Next.js.
+Seattle-based web developer building interactive tools, 3D experiences, and AI-powered apps with React, Three.js, and OpenAI APIs.
 
 
 
